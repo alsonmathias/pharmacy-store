@@ -255,6 +255,6 @@ void HeaderName(){
     gotoxy(28,5);boldred(); printf("Licence No:");  boldwhite();  printf(" 216789");
     gotoxy(28,7);boldred(); printf("Email:");boldwhite(); printf(" Maksad911@gmail.com");
     gotoxy(28,9);boldred(); printf("Phone:"); boldwhite();printf(" +91 9112266779");
-    gotoxy(28,11);boldred(); printf("Address:");boldwhite();  printf(" MITE Moodbidri");
+    gotoxy(28,11);boldred(); printf("Address:");boldwhite();  printf(" XYZ");
     reset();
 }
